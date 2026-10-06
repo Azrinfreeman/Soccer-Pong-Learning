@@ -54,6 +54,9 @@ ExportedObj/
 
 # Unity3D generated file on crash reports
 sysinfo.txt
+mono_crash.*
+/.utmp/
+/*_BurstDebugInformation_DoNotShip/
 
 # Builds
 *.apk
